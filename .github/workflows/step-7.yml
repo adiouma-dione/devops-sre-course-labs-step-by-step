@@ -1,4 +1,4 @@
-name: Pipeline
+name: Pipeline-step-7
 
 on: [push]
 env:
