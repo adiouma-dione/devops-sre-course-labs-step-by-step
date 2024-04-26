@@ -6,8 +6,8 @@ on:
       - main 
 env:
   APPLICATION_NAME: flaskapp
-  REGISTRY: ghcr.io
-  IMAGE_NAME: adiouma-dione/devops-labs-flask-app
+  REGISTRY: ghcr.io/adiouma-dione
+  IMAGE_NAME: devops-labs-flask-app
 
 jobs:
   lint:
